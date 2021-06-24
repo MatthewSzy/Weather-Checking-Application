@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AstroApp</string>
+
+    <string name="moon">MOON</string>
+    <string name="sun">SUN</string>
+
+    <string-array name="times">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>25 min</item>
+    </string-array>
+</resources>
